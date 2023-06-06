@@ -9,5 +9,4 @@ This repository contains the backend code for my Weather App. The backend code i
 This backend code was created in Java and incorporates the Spring Boot Framework.
 ## Usage
 Clone this repository and run it in your IDE by running the `WeatherWebAppApplication`. Make sure to install the necessary repositories & run the backend code so that it can fetch the weather information. 
-
 Note: This UI may undergo changes in the future that may not be reflected in this readMe
