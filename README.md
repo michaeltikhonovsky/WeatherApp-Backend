@@ -8,8 +8,7 @@ This repository contains the backend code for my Weather App. The backend code i
 ## Languages used
 This backend code was created in Java and incorporates the Spring Boot Framework.
 ## Usage
-Clone this repository and run it in your IDE by running the `WeatherWebAppApplication`. Make sure to install the necessary repositories & run the backend code so that it can fetch the weather information. 
-
+Clone this repository and run it in your IDE by running `WeatherWebAppApplication`. Additionally, you will need to clone the frontend code & run it with `npm start` in your IDE's terminal.
 <!-- **Also** you must make an account on https://openweathermap.org/ and generate your own API key. It does take ~10 mins for the key to activate before use. You can enter your key in `src/main/resources/application.properties` -->
 
-Note: This UI may undergo changes in the future that may not be reflected in this readMe
+Note: This code may undergo changes in the future that may not be reflected in this readMe
